@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+    height: 70vh;
+  }
+.card {
+    width: 50%;
+    margin: auto;
+
+}
